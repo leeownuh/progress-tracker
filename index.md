@@ -19,3 +19,8 @@
 - Tools Used: Git, Bash
 - Notes: Initial progress, everything working as expected.
 
+## Monday 03 February 2025 09:11:47 PM IST
+- Activity: Cloned repository and set up GitHub tracker
+- Tools Used: Git, Bash
+- Notes: Initial progress, everything working as expected.
+
