@@ -8,3 +8,8 @@
 - Tools Used: Nmap, Metasploit, Burp Suite, OWASP ZAP
 - Notes: Mastered basic scanning and exploitation. Need to explore advanced Metasploit payloads.
 
+## Friday 14 February 2025 02:24:02 PM IST
+- Activity: Practiced Nmap scanning techniques and Metasploit for exploiting DVWA.
+- Tools Used: Nmap, Metasploit, Burp Suite, OWASP ZAP
+- Notes: Mastered basic scanning and exploitation. Need to explore advanced Metasploit payloads.
+
